@@ -1,6 +1,6 @@
 # ADriveTool Releases
 
-Official binary distribution repository for **ADriveTool** and **ADriveQC**.
+Official binary distribution repository for **ADriveTool**, including the integrated actuator QC workflow.
 
 > 이 저장소는 회사 공식 GitHub organization이 준비될 때까지 `N2xtLap`에서 임시로 관리합니다. 향후 회사 organization으로 소유권을 이전할 예정입니다.
 
@@ -13,21 +13,19 @@ Official binary distribution repository for **ADriveTool** and **ADriveQC**.
 
 ## 예정된 다운로드 파일
 
-- `ADriveTool_Setup.exe` — Windows installer
-- `ADriveQC.exe` — standalone actuator QC program
+- `ADriveTool_Setup.exe` — Windows installer with the integrated `QC` tab
 - `ADriveTool_Setup.exe.sha256`
-- `ADriveQC.exe.sha256`
 - `release-manifest.json`
 - `INSTALL.md`
 
 최신 승인 Release가 게시되면 다음 고정 주소를 사용할 수 있습니다.
 
 ```text
-https://github.com/N2xtLap/ADriveTool-Releases/releases/latest/download/ADriveQC.exe
+https://github.com/N2xtLap/ADriveTool-Releases/releases/latest/download/ADriveTool_Setup.exe
 ```
 
 ```text
-https://github.com/N2xtLap/ADriveTool-Releases/releases/latest/download/ADriveQC.exe.sha256
+https://github.com/N2xtLap/ADriveTool-Releases/releases/latest/download/ADriveTool_Setup.exe.sha256
 ```
 
 ## Source repository
