@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <rect width="256" height="256" rx="48" fill="#1E2A24"/>
-  <path d="M128 86L194 120V182L128 214L62 182V120Z" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linejoin="round"/>
-  <path d="M62 120L128 152L194 120 M128 152V214" fill="none" stroke="#9AA5A0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M128 40V110 M104 88L128 112L152 88" fill="none" stroke="#8EC31F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M146 168L158 180L178 154" fill="none" stroke="#8EC31F" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><defs><linearGradient id="aeiG" gradientUnits="userSpaceOnUse" x1="40" y1="40" x2="216" y2="216"><stop offset="0" stop-color="#C9D62B"/><stop offset="0.5" stop-color="#90C31F"/><stop offset="1" stop-color="#4FAE34"/></linearGradient></defs>
+  <rect width="256" height="256" rx="48" fill="#FFFFFF" stroke="#E3E8EF" stroke-width="4"/>
+  <path d="M128 86L194 120V182L128 214L62 182V120Z" fill="none" stroke="#1F3864" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M62 120L128 152L194 120 M128 152V214" fill="none" stroke="#8A9BB8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 40V110 M104 88L128 112L152 88" fill="none" stroke="url(#aeiG)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 168L158 180L178 154" fill="none" stroke="url(#aeiG)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
