@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/logo.svg" width="128" alt="ADriveTool-Releases logo"></p>
+
 # ADriveTool Releases
 
 Official binary distribution repository for **ADriveTool**, including the integrated actuator QC workflow.
